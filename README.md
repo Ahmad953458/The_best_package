@@ -10,7 +10,7 @@ git clone https://github.com/Ahmad953458/The_best_package.git
 ```
 I this didn't work try this
 ```
-git clone --depth=1 git clone https://github.com/Ahmad953458/The_best_package.git
+git clone --depth=1 https://github.com/Ahmad953458/The_best_pa kage.git
 ```
 ```
 cd best
