@@ -13,6 +13,9 @@ I this didn't work try this
 git clone --depth=1 https://github.com/Ahmad953458/The_best_package.git
 ```
 ```
+cd The_best_package
+```
+```
 cd best
 ```
 ```
